@@ -1,4 +1,4 @@
-package com.kkukielka.config;
+package com.kkukielka.gateway.config;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
